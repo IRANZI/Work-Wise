@@ -1,2 +1,1 @@
-# Internpedia_Task-No.1-
-This is the task one the landing page.# Internpedia_Task-No.1-
+This is the first website which helps Bussinesss people to get tips that help them in stress management.
